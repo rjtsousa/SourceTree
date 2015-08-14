@@ -1,6 +1,11 @@
+<<<<<<< .merge_file_a05904
 
 
 Mudança2
 Master
 Branch 3
 
+=======
+Mudança2
+Branch2
+>>>>>>> .merge_file_a05756
