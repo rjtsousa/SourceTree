@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 
 Mudança2
 Master
 Branch 3
 Mudança2
 Branch2
-
-=======
 Mudança3
 Branch1
->>>>>>> Branch1
+
