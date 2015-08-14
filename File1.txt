@@ -1,10 +1,6 @@
 
 
-
-
 Mudança2
-<<<<<<< HEAD
 Master
-=======
 Branch 3
->>>>>>> Branch3
+
